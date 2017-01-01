@@ -1,0 +1,411 @@
+hotel_name,rating,count
+"Marriott Vacation Club Pulse at Custom House, Boston",Excellent,513
+"Marriott Vacation Club Pulse at Custom House, Boston",Very good,176
+"Marriott Vacation Club Pulse at Custom House, Boston",Average,13
+"Marriott Vacation Club Pulse at Custom House, Boston",Poor,14
+"Marriott Vacation Club Pulse at Custom House, Boston",Terrible,12
+Seaport Boston Hotel,Excellent,"3,157"
+Seaport Boston Hotel,Very good,750
+Seaport Boston Hotel,Average,132
+Seaport Boston Hotel,Poor,52
+Seaport Boston Hotel,Terrible,38
+Four Seasons Hotel Boston,Excellent,"1,155"
+Four Seasons Hotel Boston,Very good,199
+Four Seasons Hotel Boston,Average,54
+Four Seasons Hotel Boston,Poor,27
+Four Seasons Hotel Boston,Terrible,17
+Boston Harbor Hotel,Excellent,"1,310"
+Boston Harbor Hotel,Very good,235
+Boston Harbor Hotel,Average,55
+Boston Harbor Hotel,Poor,20
+Boston Harbor Hotel,Terrible,17
+Lenox Hotel,Excellent,"2,213"
+Lenox Hotel,Very good,555
+Lenox Hotel,Average,123
+Lenox Hotel,Poor,45
+Lenox Hotel,Terrible,20
+Courtyard Boston Copley Square,Excellent,"1,095"
+Courtyard Boston Copley Square,Very good,381
+Courtyard Boston Copley Square,Average,62
+Courtyard Boston Copley Square,Poor,16
+Courtyard Boston Copley Square,Terrible,15
+InterContinental Boston,Excellent,"2,240"
+InterContinental Boston,Very good,737
+InterContinental Boston,Average,178
+InterContinental Boston,Poor,70
+InterContinental Boston,Terrible,62
+"Mandarin Oriental, Boston",Excellent,446
+"Mandarin Oriental, Boston",Very good,83
+"Mandarin Oriental, Boston",Average,35
+"Mandarin Oriental, Boston",Poor,9
+"Mandarin Oriental, Boston",Terrible,8
+Hotel Commonwealth,Excellent,"3,154"
+Hotel Commonwealth,Very good,589
+Hotel Commonwealth,Average,129
+Hotel Commonwealth,Poor,51
+Hotel Commonwealth,Terrible,22
+Residence Inn by Marriott Boston Back Bay/Fenway,Excellent,909
+Residence Inn by Marriott Boston Back Bay/Fenway,Very good,297
+Residence Inn by Marriott Boston Back Bay/Fenway,Average,58
+Residence Inn by Marriott Boston Back Bay/Fenway,Poor,16
+Residence Inn by Marriott Boston Back Bay/Fenway,Terrible,7
+Eliot Hotel,Excellent,689
+Eliot Hotel,Very good,259
+Eliot Hotel,Average,71
+Eliot Hotel,Poor,36
+Eliot Hotel,Terrible,24
+XV Beacon,Excellent,770
+XV Beacon,Very good,171
+XV Beacon,Average,37
+XV Beacon,Poor,30
+XV Beacon,Terrible,14
+Hilton Garden Inn Boston Logan Airport,Excellent,513
+Hilton Garden Inn Boston Logan Airport,Very good,128
+Hilton Garden Inn Boston Logan Airport,Average,26
+Hilton Garden Inn Boston Logan Airport,Poor,8
+Hilton Garden Inn Boston Logan Airport,Terrible,2
+Residence Inn Boston Downtown/Seaport,Excellent,287
+Residence Inn Boston Downtown/Seaport,Very good,104
+Residence Inn Boston Downtown/Seaport,Average,14
+Residence Inn Boston Downtown/Seaport,Poor,9
+Residence Inn Boston Downtown/Seaport,Terrible,3
+The Verb Hotel,Excellent,986
+The Verb Hotel,Very good,334
+The Verb Hotel,Average,80
+The Verb Hotel,Poor,22
+The Verb Hotel,Terrible,14
+Kimpton Nine Zero Hotel,Excellent,"1,502"
+Kimpton Nine Zero Hotel,Very good,596
+Kimpton Nine Zero Hotel,Average,127
+Kimpton Nine Zero Hotel,Poor,32
+Kimpton Nine Zero Hotel,Terrible,27
+The Godfrey Hotel Boston,Excellent,"1,181"
+The Godfrey Hotel Boston,Very good,370
+The Godfrey Hotel Boston,Average,102
+The Godfrey Hotel Boston,Poor,37
+The Godfrey Hotel Boston,Terrible,14
+The Boxer Boston,Excellent,524
+The Boxer Boston,Very good,246
+The Boxer Boston,Average,63
+The Boxer Boston,Poor,16
+The Boxer Boston,Terrible,10
+"The Langham, Boston",Excellent,"1,151"
+"The Langham, Boston",Very good,498
+"The Langham, Boston",Average,143
+"The Langham, Boston",Poor,50
+"The Langham, Boston",Terrible,34
+enVision Hotel Boston - Longwood,Excellent,368
+enVision Hotel Boston - Longwood,Very good,141
+enVision Hotel Boston - Longwood,Average,33
+enVision Hotel Boston - Longwood,Poor,9
+enVision Hotel Boston - Longwood,Terrible,2
+Colonnade Hotel,Excellent,"1,776"
+Colonnade Hotel,Very good,653
+Colonnade Hotel,Average,198
+Colonnade Hotel,Poor,74
+Colonnade Hotel,Terrible,55
+Loews Boston Hotel,Excellent,799
+Loews Boston Hotel,Very good,359
+Loews Boston Hotel,Average,86
+Loews Boston Hotel,Poor,22
+Loews Boston Hotel,Terrible,9
+Residence Inn Boston Harbor on Tudor Wharf,Excellent,437
+Residence Inn Boston Harbor on Tudor Wharf,Very good,259
+Residence Inn Boston Harbor on Tudor Wharf,Average,62
+Residence Inn Boston Harbor on Tudor Wharf,Poor,17
+Residence Inn Boston Harbor on Tudor Wharf,Terrible,6
+"Fairmont Copley Plaza, Boston",Excellent,"1,524"
+"Fairmont Copley Plaza, Boston",Very good,592
+"Fairmont Copley Plaza, Boston",Average,226
+"Fairmont Copley Plaza, Boston",Poor,98
+"Fairmont Copley Plaza, Boston",Terrible,43
+"The Ritz-Carlton, Boston",Excellent,387
+"The Ritz-Carlton, Boston",Very good,122
+"The Ritz-Carlton, Boston",Average,56
+"The Ritz-Carlton, Boston",Poor,38
+"The Ritz-Carlton, Boston",Terrible,6
+Copley Square Hotel,Excellent,790
+Copley Square Hotel,Very good,483
+Copley Square Hotel,Average,133
+Copley Square Hotel,Poor,38
+Copley Square Hotel,Terrible,22
+W Boston,Excellent,790
+W Boston,Very good,362
+W Boston,Average,151
+W Boston,Poor,69
+W Boston,Terrible,40
+Newbury Guest House,Excellent,220
+Newbury Guest House,Very good,199
+Newbury Guest House,Average,50
+Newbury Guest House,Poor,20
+Newbury Guest House,Terrible,16
+Taj Boston,Excellent,"1,086"
+Taj Boston,Very good,567
+Taj Boston,Average,230
+Taj Boston,Poor,119
+Taj Boston,Terrible,64
+"The Westin Copley Place, Boston",Excellent,"1,685"
+"The Westin Copley Place, Boston",Very good,"1,071"
+"The Westin Copley Place, Boston",Average,374
+"The Westin Copley Place, Boston",Poor,124
+"The Westin Copley Place, Boston",Terrible,55
+The Bostonian Boston,Excellent,657
+The Bostonian Boston,Very good,479
+The Bostonian Boston,Average,149
+The Bostonian Boston,Poor,65
+The Bostonian Boston,Terrible,39
+Hyatt Regency Boston,Excellent,"1,262"
+Hyatt Regency Boston,Very good,995
+Hyatt Regency Boston,Average,449
+Hyatt Regency Boston,Poor,164
+Hyatt Regency Boston,Terrible,73
+"The Envoy Hotel, Autograph Collection",Excellent,193
+"The Envoy Hotel, Autograph Collection",Very good,77
+"The Envoy Hotel, Autograph Collection",Average,31
+"The Envoy Hotel, Autograph Collection",Poor,22
+"The Envoy Hotel, Autograph Collection",Terrible,5
+Hyatt Regency Boston Harbor,Excellent,940
+Hyatt Regency Boston Harbor,Very good,659
+Hyatt Regency Boston Harbor,Average,227
+Hyatt Regency Boston Harbor,Poor,102
+Hyatt Regency Boston Harbor,Terrible,48
+Kimpton Onyx Hotel,Excellent,612
+Kimpton Onyx Hotel,Very good,403
+Kimpton Onyx Hotel,Average,133
+Kimpton Onyx Hotel,Poor,51
+Kimpton Onyx Hotel,Terrible,23
+"The Liberty, A Luxury Collection Hotel",Excellent,166
+"The Liberty, A Luxury Collection Hotel",Very good,81
+"The Liberty, A Luxury Collection Hotel",Average,27
+"The Liberty, A Luxury Collection Hotel",Poor,12
+"The Liberty, A Luxury Collection Hotel",Terrible,13
+Boston Marriott Long Wharf,Excellent,913
+Boston Marriott Long Wharf,Very good,641
+Boston Marriott Long Wharf,Average,195
+Boston Marriott Long Wharf,Poor,81
+Boston Marriott Long Wharf,Terrible,33
+The Westin Boston Waterfront,Excellent,955
+The Westin Boston Waterfront,Very good,869
+The Westin Boston Waterfront,Average,317
+The Westin Boston Waterfront,Poor,104
+The Westin Boston Waterfront,Terrible,60
+Revere Hotel Boston Common,Excellent,"1,676"
+Revere Hotel Boston Common,Very good,978
+Revere Hotel Boston Common,Average,327
+Revere Hotel Boston Common,Poor,86
+Revere Hotel Boston Common,Terrible,58
+Renaissance Boston Waterfront Hotel,Excellent,483
+Renaissance Boston Waterfront Hotel,Very good,507
+Renaissance Boston Waterfront Hotel,Average,141
+Renaissance Boston Waterfront Hotel,Poor,43
+Renaissance Boston Waterfront Hotel,Terrible,20
+DoubleTree by Hilton Hotel Boston - Downtown,Excellent,515
+DoubleTree by Hilton Hotel Boston - Downtown,Very good,385
+DoubleTree by Hilton Hotel Boston - Downtown,Average,148
+DoubleTree by Hilton Hotel Boston - Downtown,Poor,42
+DoubleTree by Hilton Hotel Boston - Downtown,Terrible,24
+"Ames Boston Hotel, Curio Collection by Hilton",Excellent,558
+"Ames Boston Hotel, Curio Collection by Hilton",Very good,328
+"Ames Boston Hotel, Curio Collection by Hilton",Average,117
+"Ames Boston Hotel, Curio Collection by Hilton",Poor,50
+"Ames Boston Hotel, Curio Collection by Hilton",Terrible,18
+Omni Parker House,Excellent,"2,974"
+Omni Parker House,Very good,"2,014"
+Omni Parker House,Average,824
+Omni Parker House,Poor,346
+Omni Parker House,Terrible,170
+The Inn At St Botolph,Excellent,351
+The Inn At St Botolph,Very good,115
+The Inn At St Botolph,Average,25
+The Inn At St Botolph,Poor,10
+The Inn At St Botolph,Terrible,2
+Sheraton Boston Hotel,Excellent,702
+Sheraton Boston Hotel,Very good,634
+Sheraton Boston Hotel,Average,227
+Sheraton Boston Hotel,Poor,51
+Sheraton Boston Hotel,Terrible,54
+Harborside Inn,Excellent,478
+Harborside Inn,Very good,555
+Harborside Inn,Average,128
+Harborside Inn,Poor,54
+Harborside Inn,Terrible,48
+The Inn at Longwood Medical,Excellent,489
+The Inn at Longwood Medical,Very good,248
+The Inn at Longwood Medical,Average,133
+The Inn at Longwood Medical,Poor,65
+The Inn at Longwood Medical,Terrible,51
+Club Quarters Hotel in Boston,Excellent,710
+Club Quarters Hotel in Boston,Very good,510
+Club Quarters Hotel in Boston,Average,188
+Club Quarters Hotel in Boston,Poor,67
+Club Quarters Hotel in Boston,Terrible,52
+"Battery Wharf Hotel, Boston Waterfront",Excellent,683
+"Battery Wharf Hotel, Boston Waterfront",Very good,253
+"Battery Wharf Hotel, Boston Waterfront",Average,108
+"Battery Wharf Hotel, Boston Waterfront",Poor,36
+"Battery Wharf Hotel, Boston Waterfront",Terrible,24
+Boston Marriott Copley Place,Excellent,833
+Boston Marriott Copley Place,Very good,"1,179"
+Boston Marriott Copley Place,Average,414
+Boston Marriott Copley Place,Poor,125
+Boston Marriott Copley Place,Terrible,52
+DoubleTree Suites by Hilton Boston-Cambridge,Excellent,585
+DoubleTree Suites by Hilton Boston-Cambridge,Very good,581
+DoubleTree Suites by Hilton Boston-Cambridge,Average,209
+DoubleTree Suites by Hilton Boston-Cambridge,Poor,81
+DoubleTree Suites by Hilton Boston-Cambridge,Terrible,58
+Hotel 140,Excellent,618
+Hotel 140,Very good,680
+Hotel 140,Average,239
+Hotel 140,Poor,98
+Hotel 140,Terrible,60
+Holiday Inn Express Boston,Excellent,175
+Holiday Inn Express Boston,Very good,286
+Holiday Inn Express Boston,Average,101
+Holiday Inn Express Boston,Poor,31
+Holiday Inn Express Boston,Terrible,25
+Charlesmark Hotel,Excellent,362
+Charlesmark Hotel,Very good,321
+Charlesmark Hotel,Average,67
+Charlesmark Hotel,Poor,36
+Charlesmark Hotel,Terrible,20
+Hilton Boston Back Bay,Excellent,856
+Hilton Boston Back Bay,Very good,938
+Hilton Boston Back Bay,Average,397
+Hilton Boston Back Bay,Poor,137
+Hilton Boston Back Bay,Terrible,59
+Boston Park Plaza,Excellent,440
+Boston Park Plaza,Very good,348
+Boston Park Plaza,Average,168
+Boston Park Plaza,Poor,79
+Boston Park Plaza,Terrible,38
+Hilton Boston Downtown / Faneuil Hall,Excellent,585
+Hilton Boston Downtown / Faneuil Hall,Very good,586
+Hilton Boston Downtown / Faneuil Hall,Average,257
+Hilton Boston Downtown / Faneuil Hall,Poor,91
+Hilton Boston Downtown / Faneuil Hall,Terrible,65
+DoubleTree Club by Hilton Hotel Boston Bayside,Excellent,424
+DoubleTree Club by Hilton Hotel Boston Bayside,Very good,478
+DoubleTree Club by Hilton Hotel Boston Bayside,Average,284
+DoubleTree Club by Hilton Hotel Boston Bayside,Poor,105
+DoubleTree Club by Hilton Hotel Boston Bayside,Terrible,54
+Embassy Suites by Hilton Boston - at Logan Airport,Excellent,722
+Embassy Suites by Hilton Boston - at Logan Airport,Very good,709
+Embassy Suites by Hilton Boston - at Logan Airport,Average,349
+Embassy Suites by Hilton Boston - at Logan Airport,Poor,109
+Embassy Suites by Hilton Boston - at Logan Airport,Terrible,72
+Hilton Boston Logan Airport,Excellent,997
+Hilton Boston Logan Airport,Very good,"1,201"
+Hilton Boston Logan Airport,Average,460
+Hilton Boston Logan Airport,Poor,149
+Hilton Boston Logan Airport,Terrible,86
+Hampton Inn & Suites Boston Crosstown Center,Excellent,362
+Hampton Inn & Suites Boston Crosstown Center,Very good,330
+Hampton Inn & Suites Boston Crosstown Center,Average,166
+Hampton Inn & Suites Boston Crosstown Center,Poor,68
+Hampton Inn & Suites Boston Crosstown Center,Terrible,39
+Element Boston Seaport,Excellent,48
+Element Boston Seaport,Very good,28
+Element Boston Seaport,Average,6
+Element Boston Seaport,Poor,2
+Element Boston Seaport,Terrible,1
+Wyndham Boston Beacon Hill,Excellent,597
+Wyndham Boston Beacon Hill,Very good,702
+Wyndham Boston Beacon Hill,Average,365
+Wyndham Boston Beacon Hill,Poor,126
+Wyndham Boston Beacon Hill,Terrible,67
+Chandler Inn,Excellent,285
+Chandler Inn,Very good,441
+Chandler Inn,Average,132
+Chandler Inn,Poor,54
+Chandler Inn,Terrible,32
+Boston Hotel Buckminster,Excellent,324
+Boston Hotel Buckminster,Very good,512
+Boston Hotel Buckminster,Average,240
+Boston Hotel Buckminster,Poor,100
+Boston Hotel Buckminster,Terrible,99
+The Midtown Hotel,Excellent,608
+The Midtown Hotel,Very good,"1,268"
+The Midtown Hotel,Average,644
+The Midtown Hotel,Poor,210
+The Midtown Hotel,Terrible,91
+Copley House,Excellent,152
+Copley House,Very good,195
+Copley House,Average,90
+Copley House,Poor,37
+Copley House,Terrible,42
+Aloft Boston Seaport,Excellent,58
+Aloft Boston Seaport,Very good,71
+Aloft Boston Seaport,Average,25
+Aloft Boston Seaport,Poor,11
+Aloft Boston Seaport,Terrible,8
+Courtyard Boston Downtown,Excellent,37
+Courtyard Boston Downtown,Very good,51
+Courtyard Boston Downtown,Average,28
+Courtyard Boston Downtown,Poor,8
+Courtyard Boston Downtown,Terrible,1
+Holiday Inn Express Hotel & Suites Boston Garden,Excellent,132
+Holiday Inn Express Hotel & Suites Boston Garden,Very good,174
+Holiday Inn Express Hotel & Suites Boston Garden,Average,88
+Holiday Inn Express Hotel & Suites Boston Garden,Poor,36
+Holiday Inn Express Hotel & Suites Boston Garden,Terrible,23
+Courtyard Boston Logan Airport,Excellent,156
+Courtyard Boston Logan Airport,Very good,258
+Courtyard Boston Logan Airport,Average,151
+Courtyard Boston Logan Airport,Poor,50
+Courtyard Boston Logan Airport,Terrible,29
+Beacon Hill Hotel and Bistro,Excellent,97
+Beacon Hill Hotel and Bistro,Very good,63
+Beacon Hill Hotel and Bistro,Average,19
+Beacon Hill Hotel and Bistro,Poor,14
+Beacon Hill Hotel and Bistro,Terrible,6
+Courtyard Boston-South Boston,Excellent,127
+Courtyard Boston-South Boston,Very good,212
+Courtyard Boston-South Boston,Average,71
+Courtyard Boston-South Boston,Poor,32
+Courtyard Boston-South Boston,Terrible,16
+Best Western Plus Boston Hotel,Excellent,242
+Best Western Plus Boston Hotel,Very good,352
+Best Western Plus Boston Hotel,Average,165
+Best Western Plus Boston Hotel,Poor,95
+Best Western Plus Boston Hotel,Terrible,58
+Comfort Inn - Boston,Excellent,53
+Comfort Inn - Boston,Very good,72
+Comfort Inn - Boston,Average,48
+Comfort Inn - Boston,Poor,17
+Comfort Inn - Boston,Terrible,18
+Hotel Boston,Excellent,130
+Hotel Boston,Very good,184
+Hotel Boston,Average,104
+Hotel Boston,Poor,49
+Hotel Boston,Terrible,33
+Ramada Boston,Excellent,48
+Ramada Boston,Very good,88
+Ramada Boston,Average,88
+Ramada Boston,Poor,47
+Ramada Boston,Terrible,45
+The Boston Common Hotel and Conference Center,Excellent,62
+The Boston Common Hotel and Conference Center,Very good,204
+The Boston Common Hotel and Conference Center,Average,206
+The Boston Common Hotel and Conference Center,Poor,100
+The Boston Common Hotel and Conference Center,Terrible,59
+Found Hotel Boston Common,Excellent,5
+Found Hotel Boston Common,Very good,8
+Found Hotel Boston Common,Average,11
+Found Hotel Boston Common,Poor,5
+Found Hotel Boston Common,Terrible,5
+Constitution Inn,Excellent,76
+Constitution Inn,Very good,160
+Constitution Inn,Average,149
+Constitution Inn,Poor,99
+Constitution Inn,Terrible,87
+Days Hotel Boston-Harvard Fenway,Excellent,27
+Days Hotel Boston-Harvard Fenway,Very good,58
+Days Hotel Boston-Harvard Fenway,Average,101
+Days Hotel Boston-Harvard Fenway,Poor,76
+Days Hotel Boston-Harvard Fenway,Terrible,57
+Americas Best Value Inn,Excellent,2
+Americas Best Value Inn,Very good,4
+Americas Best Value Inn,Average,8
+Americas Best Value Inn,Poor,1
+Americas Best Value Inn,Terrible,6
